@@ -1,16 +1,20 @@
+## 👨‍💼 Introduction
+[![img](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nima-sayadi)
+[![img](https://img.shields.io/badge/MY%20PROFILE-LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-sayadi-250b41257)
 
-
-My Name is **Nima Sayadi**. 🧔
+Hello everyone! My Name is **Nima Sayadi**. 🤝
 
 I live in Iran. I'm 23 and have been coding for almost 4 years now. I'm currently working as a freelancer 👨‍💻.
 
-### ⚡ Technologies
+## ⚡ Technologies
 
 My Skills are
 
 - Front-end development using HTML, CSS, JavaScript (Bootstrap, Vue JS, NuxtJS)
 
-- Backend development using PHP,NodeJS (Laravel, Wordpress)
+- Backend development using PHP,NodeJS (Laravel)
+
+- CMS development (Wordpress)
 
 - Database using MySQL, MongoDB
 
@@ -18,19 +22,19 @@ My Skills are
 
 - Solving Data structure and algorithm questions
 
-### 🌱 currently learning
+## 📖 currently learning
 
 - React JS
 - Nest JS
 - React Native
 
-### 👀 Interested in
+## 👀 Interested in
 
 - Machine Learning
 - Big Data
 - Robotics
 
-### 📫 How to reach me !
+## 📫 How to reach me !
 
 - [![img](https://img.shields.io/badge/Telegram%20ID-@joker__lives-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joker_lives)
 - [![img](https://img.shields.io/badge/Whatsapp%20number-+989017991246-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+989017991246)
