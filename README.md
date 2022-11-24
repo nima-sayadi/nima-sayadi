@@ -1,6 +1,8 @@
 ## 👨‍💼 Introduction
+
 [![img](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nima-sayadi)
 [![img](https://img.shields.io/badge/MY%20PROFILE-LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-sayadi-250b41257)
+![img](https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif)
 
 Hello everyone! My Name is **Nima Sayadi**. 🤝
 
