@@ -13,7 +13,7 @@ I live in Iran. I'm 23 and have been coding for almost 4 years now. I'm currentl
 
 My Skills are
 
-- Front-end development using HTML, CSS, JavaScript (Bootstrap, Vue JS, NuxtJS)
+- Front-end development using HTML, CSS, JavaScript (Bootstrap, Vue JS, NuxtJS, React JS, Next JS)
 
 - Backend development using PHP,NodeJS (Laravel)
 
@@ -27,7 +27,6 @@ My Skills are
 
 ## 📖 currently learning
 
-- React JS
 - Nest JS
 - React Native
 
