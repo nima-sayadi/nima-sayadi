@@ -7,7 +7,7 @@
 
 Hello everyone! My Name is **Nima Sayadi**. 🤝
 
-I live in Iran. I'm 23 and have been coding for almost 4 years now. I'm currently working as a freelancer 👨‍💻.
+I live in Germany. I'm 24 and have been coding for almost 4 years now. I'm currently a master student in computer science & working as a freelancer 👨‍💻.
 
 ## ⚡ Technologies
 
@@ -19,7 +19,7 @@ My Skills are
 
 - CMS development (Wordpress)
 
-- Database using MySQL, MongoDB
+- Database using MySQL
 
 - Robust full-stack system design implementation
 
