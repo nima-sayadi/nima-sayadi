@@ -34,6 +34,6 @@ My Skills are
 ## 📫 How to reach me !
 
 - [![img](https://img.shields.io/badge/Telegram%20ID-@joker__lives-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joker_lives)
-- [![img](https://img.shields.io/badge/Whatsapp%20number-+989017991246-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+989017991246)
+- [![img](https://img.shields.io/badge/Whatsapp%20number-+989017991246-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+4915236240128)
 - [![img](https://img.shields.io/badge/Email%20Address-nimanima54@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nimanima54@gmail.com)
 
