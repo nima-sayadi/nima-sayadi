@@ -7,7 +7,7 @@
 
 Hello everyone! My Name is **Nima Sayadi**. 🤝
 
-I live in Germany. I'm 24 and have been coding for almost 4 years now. I'm currently a master student in computer science & working as a freelancer 👨‍💻.
+I live in Germany. I'm 24 and have been coding for almost 5 years now. I'm currently a master student in computer science & working as a student research assistant in System & Network Security group 👨‍💻.
 
 ## ⚡ Technologies
 
@@ -17,6 +17,8 @@ My Skills are
 
 - Backend development using PHP,NodeJS (Laravel)
 
+- Extra languages such as C/C++,Lua,Python
+
 - CMS development (Wordpress)
 
 - Database using MySQL
@@ -25,9 +27,12 @@ My Skills are
 
 - Solving Data structure and algorithm questions
 
+- Security Weakness Analysis
+
 ## 👀 Interested in
 
 - Machine Learning
+- Game development
 - Big Data
 - Robotics
 
