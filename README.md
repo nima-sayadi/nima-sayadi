@@ -25,7 +25,7 @@ I live in Germany. I'm 24 and have been coding for almost 5 years now. I'm curre
 
 - Solving Data structure and algorithm questions
 
-- Security Weakness Analysis
+- Cyber Security Analysis
 
 ## 👀 Interested in
 
