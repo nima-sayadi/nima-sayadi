@@ -11,8 +11,6 @@ I live in Germany. I'm 24 and have been coding for almost 5 years now. I'm curre
 
 ## ⚡ Technologies
 
-My Skills are
-
 - Front-end development using HTML, CSS, JavaScript (Vanilla.js, React.js,Next.js)
 
 - Backend development using PHP,NodeJS (Laravel)
@@ -34,7 +32,7 @@ My Skills are
 - Machine Learning
 - Game development
 - Big Data
-- Robotics
+- Tissue Engineering, Bioinformatics & Biomedical Engineering
 
 ## 📫 How to reach me !
 
