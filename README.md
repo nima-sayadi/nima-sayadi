@@ -17,6 +17,8 @@ I live in Germany. I'm 24 and have been coding for almost 5 years now. I'm curre
 
 - Extra languages such as C/C++,Lua,Python
 
+- Shell Scripting, Linux based environments
+
 - CMS development (Wordpress)
 
 - Database using MySQL
