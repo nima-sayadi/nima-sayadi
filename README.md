@@ -7,7 +7,7 @@
 
 Hello everyone! WELCOME to my GitHub page!
 
-I'm 24 and have been coding for almost 5 years now. I'm currently a master student in computer science & working as a student research assistant in System & Network Security group 👨‍💻.
+I have been coding for over 5 years now in different languages and projects. I'm currently a master student in computer science & working as a student research assistant in System & Network Security group 👨‍💻.
 
 ## ⚡ Technologies
 
