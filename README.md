@@ -5,7 +5,7 @@
 
 > ![img](https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif)
 
-Hello everyone! My Name is **Nima Sayadi**. 🤝
+Hello everyone! WELCOME to my GitHub page!
 
 I'm 24 and have been coding for almost 5 years now. I'm currently a master student in computer science & working as a student research assistant in System & Network Security group 👨‍💻.
 
