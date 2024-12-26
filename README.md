@@ -9,6 +9,8 @@ Hello everyone! WELCOME to my GitHub page!
 
 I have been coding for over 5 years now in different languages and projects. I'm currently a master student in computer science & working as a student research assistant in System & Network Security group 👨‍💻.
 
+My latest project: https://github.com/iisys-sns/FlippyRAM
+
 ## ⚡ Technologies
 
 - Front-end development using HTML, CSS, JavaScript (Vanilla.js, React.js,Next.js)
