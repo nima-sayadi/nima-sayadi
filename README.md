@@ -13,15 +13,15 @@ I live in Germany. I'm 24 and have been coding for almost 5 years now. I'm curre
 
 - Front-end development using HTML, CSS, JavaScript (Vanilla.js, React.js,Next.js)
 
-- Backend development using PHP,NodeJS (Laravel)
+- Backend development using PHP,NodeJS (Laravel,ExpressJS)
 
-- Extra languages such as C/C++,Lua,Python
+- Other languages such as C/C++,Lua,Python,shell
 
 - Shell Scripting, Linux based environments
 
 - CMS development (Wordpress)
 
-- Database using MySQL
+- SQL databases such as MySQL
 
 - Robust full-stack system design implementation
 
