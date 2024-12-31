@@ -23,7 +23,7 @@ My latest project: https://github.com/iisys-sns/FlippyRAM
 
 - CMS development (Wordpress)
 
-- SQL databases such as MySQL
+- SQL databases such as MySQL, PostgreSQL
 
 - Robust full-stack system design implementation
 
