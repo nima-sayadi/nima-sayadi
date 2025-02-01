@@ -13,30 +13,31 @@ My latest project: https://github.com/iisys-sns/FlippyRAM
 
 ## ⚡ Technologies
 
-- Front-end development using HTML, CSS, JavaScript (Vanilla.js, React.js,Next.js)
-
+- Front-end development using JavaScript (Vanilla.js, React.js, Next.js) & of course HTML/CSS
 - Backend development using PHP,NodeJS (Laravel,ExpressJS)
-
-- Other languages such as C/C++,Lua,Python,shell
-
+- Other languages such as C/C++,Lua,Python
 - Shell Scripting, Linux based environments
-
+- SQL databases such as MySQL, PostgreSQL
+- Security tool developments & Cyber Security Analysis
 - CMS development (Wordpress)
 
-- SQL databases such as MySQL, PostgreSQL
+## 💪 Strengths
 
-- Robust full-stack system design implementation
-
+- Swift problem solving (Both in programming and team handling)
+- Strong time management on tasks/projects
+- efficient coding and documenting
+- Project Management
+- Flexible in teamwork
+- Team leading/organizing 
+- Robust full-stack system design planning & implementation
 - Solving Data structure and algorithm questions
 
-- Cyber Security Analysis
+## 👀 Interests
 
-## 👀 Interested in
-
-- Machine Learning
-- Game development
-- Big Data
-- Tissue Engineering, Bioinformatics & Biomedical Engineering
+- Hanging out with friends and colleagues (gathering at bars maybe?)
+- Bowling, Billiards, Movie
+- Traveling, Fishing, Walking in nature
+- Video Games 💙 Red Dead Redemption
 
 ## 📫 How to reach me !
 
