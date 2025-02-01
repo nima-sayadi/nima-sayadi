@@ -18,7 +18,7 @@ My latest project: https://github.com/iisys-sns/FlippyRAM
 - Other languages such as C/C++,Lua,Python
 - Shell Scripting, Linux based environments
 - SQL databases such as MySQL, PostgreSQL
-- Security tool developments & Cyber Security Analysis
+- Security tool development & Cyber Security Analysis
 - CMS development (Wordpress)
 
 ## 💪 Strengths
