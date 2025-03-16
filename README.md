@@ -7,9 +7,9 @@
 
 Hello everyone! WELCOME to my GitHub page!
 
-I have been coding for over 5 years now in different languages and projects. I'm currently a master student in computer science & working as a student research assistant in System & Network Security group 👨‍💻.
+I have been coding for over 5 years now in different languages and projects. I'm currently a master student in computer science doing my thesis 👨‍💻.
 
-My latest project: https://github.com/iisys-sns/FlippyRAM
+My latest project (Employed by System & Network Security group at the Institute of Information Systems at Hof University): https://github.com/iisys-sns/FlippyRAM
 
 ## ⚡ Technologies
 
