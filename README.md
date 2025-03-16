@@ -23,7 +23,7 @@ My latest project (Employed by System & Network Security group at the Institute 
 
 ## 💪 Strengths
 
-- Swift problem solving (Both in programming and team handling)
+- Swift problem solving (Both in programming and team work env)
 - Strong time management on tasks/projects
 - efficient coding and documenting
 - Project Management
