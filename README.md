@@ -42,5 +42,4 @@ My latest project (Employed by System & Network Security group at the Institute 
 ## 📫 How to reach me !
 
 - [![img](https://img.shields.io/badge/Telegram%20ID-@joker__lives-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joker_lives)
-- [![img](https://img.shields.io/badge/Email%20Address-nimanima54@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nimanima54@gmail.com)
 
